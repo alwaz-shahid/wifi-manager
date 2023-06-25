@@ -2,6 +2,8 @@
 
 The Python-based Wi-Fi Manager is a script that simplifies the process of switching between managed and monitor mode for wireless adapters on Linux systems. With just a few commands, you can control your wireless adapters and manage their modes.
 
+The Python-based Wi-Fi Manager allows you to list USB and network devices, change wireless adapter modes, and disable wireless adapters easily.
+
 # Usage
 
 ```
